@@ -35,7 +35,17 @@
 ### Ejemplo:
     # git reset
 
+## remote
+*Permite enlazar mi repositorio Git local con un repositorio en la nube como GutHub, Bitbucket, etc..*
+### Ejemplo:
+    # git remote add origin <Repository URL>
+
 ## push
 *Actualizar las referencias remotas junto con los objetos asociados.*
 ### Ejemplo:
-    # git push
+    # git push -u origin master
+
+## clone
+*Clonar un repositorio en un nuevo directorio.*
+### Ejemplo:
+    # git clone <Repository URL>
