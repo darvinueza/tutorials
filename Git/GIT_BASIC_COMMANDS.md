@@ -1,4 +1,8 @@
+<div style="font-style: italic; text-align: center;" markdown="1">
+
 # COMANDOS BÁSICOS DE GIT
+
+</div>
 
 | COMANDO | DESCRIPCIÓN | EJEMPLO |
 | --- | --- | --- |
@@ -10,5 +14,3 @@
 | git checkout | Regresa a una versión anterior | git checkout ID |
 | git reset | Restablecer el HEAD actual al estado especificado | git reset |
 | git push | Actualizar las referencias remotas junto con los objetos asociados | git push |
-
-      
