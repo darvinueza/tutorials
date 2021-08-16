@@ -3,7 +3,7 @@
 ## init
 *Crear un repositorio Git vacío o reiniciar uno existente.*
 ### Ejemplo:
-        # git init
+    # git init
 
 ## status
 *Muestra el estado del árbol de trabajo.*
